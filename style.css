@@ -106,3 +106,8 @@ button:hover {
     color: #09151a;
     text-shadow: 2px 2px 8px #09151a;
 }
+
+footer{
+    text-align: center;
+    font-size: medium;
+}
